@@ -1,4 +1,6 @@
-####code for modelling 1D hydrogel exposed to 0.01M of HCL. Ouputs are solutions for various interested quantities as pvd files.
+##Code for modeling 1D hydrogel exposed to 0.01M of HCl. Outputs are solutions for various pertinent quantities as pvd files.
+##The exclusion radius for steric interactions between Cu2+ ions and polymers is R_e = 4.24*10^-10 m, resulting in eta_DP=eta=R_e^2/(2*k_f)=0.225 with k_f =4*10^-19 m^2.
+
 
 
 #importing required libraries
